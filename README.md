@@ -45,9 +45,9 @@ Here are a few projects I'm particularly proud of, showcasing my skills in **sec
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Email Address]
-* **Website/Blog (if applicable):** [Your Personal Website Link]
+* **LinkedIn:** https://www.linkedin.com/in/jide-adebiyi/
+* **Email:** 
+* **Website/Blog (if applicable):** WIP
 
 <!--
 **JideMartins/JideMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
