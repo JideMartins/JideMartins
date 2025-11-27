@@ -1,0 +1,20 @@
+### Minimalist .gitignore for GitHub Profile README ###
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE Files (common ones)
+.vscode/
+.idea/
+*.swp
+
+# Logs and Temporary files
+*.log
+*~
+
+# Virtual Environments (just in case you open it in an IDE that creates one)
+venv/
+.venv/
+env/
+.env/
